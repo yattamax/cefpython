@@ -84,6 +84,9 @@ maintained.
 - Old PyWin32 example:
   see [pywin32.py](https://github.com/cztomczak/cefpython/blob/cefpython31/cefpython/cef3/windows/binaries_32bit/pywin32.py)
   in the cefpython31 branch
+- Connection Override using external library (eg:urllib3) instead of chromium network library
+see https://gist.github.com/yattamax/0252a3c5dc54a2f81650d5c0eafabf99
+[By Massimiliano Dal Cero]
 
 There are ongoing efforts to add these examples to the official examples/
 directory, see issues in the tracker.
